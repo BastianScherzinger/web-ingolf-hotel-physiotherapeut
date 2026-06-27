@@ -61,5 +61,6 @@
   "site_version": "1.0",
   "font_display": "Poppins",
   "font_body": "Inter",
-  "taste_applied": true
+  "taste_applied": true,
+  "hero_refresh_version": 7
 }
