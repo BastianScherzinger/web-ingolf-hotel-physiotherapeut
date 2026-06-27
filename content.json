@@ -1,0 +1,65 @@
+{
+  "site_name": "Ingolf Hotel Physiotherapeut",
+  "branche": "Physiotherapeut",
+  "stadt": "Tauberbischofsheim",
+  "telefon": "",
+  "email": "",
+  "adresse": "Wilhelm-Wien-Str. 9 97080 Würzburg (Dürrbachau)",
+  "akzent": "#008CBA",
+  "fotos": [],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Effektive Physiotherapie in Tauberbischofsheim",
+  "subline": "Schnell und sicher zur vollen Mobilität zurückkehren.",
+  "ueber_titel": "Ingolf Hotel Physiotherapeut - Ihre Gesundheit ist unser Anliegen",
+  "ueber_text": "Unser kleiner, familiengeführter Betrieb in Tauberbischofsheim bietet individuelle physiotherapeutische Behandlungen. Wir kümmern uns um Ihr Wohlbefinden und unterstützen Sie bei der schnellen Erholung.",
+  "leistungen": [
+    {
+      "titel": "Individuelle Therapiepläne",
+      "text": "Wir erstellen maßgeschneiderte Pläne, die Ihren Bedürfnissen gerecht werden."
+    },
+    {
+      "titel": "Funktionsverbesserung",
+      "text": "Unsere Methoden fördern Ihre Beweglichkeit und Stärke."
+    },
+    {
+      "titel": "Schmerzlinderung",
+      "text": "Wir bieten effektive Maßnahmen zur Schmerzreduktion."
+    },
+    {
+      "titel": "Reha-Programme",
+      "text": "Schnelle Rückkehr in Ihr Alltagsleben durch gezielte Übungen."
+    }
+  ],
+  "cta_text": "Termin vereinbaren",
+  "seo_title": "Ingolf Hotel Physiotherapeut - Effektive Behandlungen in Tauberbischofsheim",
+  "seo_desc": "Effektive physiotherapeutische Behandlungen für Bewegungsfreiheit und Schmerzlinderung. Termin vereinbaren!",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "physio.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Einzelbehandlung",
+        "ab": 30,
+        "bis": 80
+      },
+      {
+        "name": "Massage",
+        "ab": 35,
+        "bis": 90
+      },
+      {
+        "name": "10er-Karte",
+        "ab": 250,
+        "bis": 600
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Poppins",
+  "font_body": "Inter",
+  "taste_applied": true
+}
