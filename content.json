@@ -100,7 +100,8 @@
   "about_image": "/static/img/about_ph.svg",
   "placeholder_images": true,
   "makeover_stages": [
-    "lokal"
+    "lokal",
+    "politur"
   ],
   "makeover_version": 7
 }
